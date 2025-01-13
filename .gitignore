@@ -27,6 +27,6 @@ local_settings.py
 
 # Ignore macOS specific files
 .DS_Store
-
+#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
 # Ignore node_modules if you are using npm/yarn
-node_modules/
+django_cache
