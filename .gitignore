@@ -1,0 +1,5 @@
+venv
+.idea
+media
+db.sqlite3
+/news/migrations/
