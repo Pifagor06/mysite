@@ -27,5 +27,6 @@ local_settings.py
 
 # Ignore macOS specific files
 .DS_Store
-# Ignore node_modules if you are using npm/yarn
+# Ignoring the django_cache directory
 django_cache/
+
